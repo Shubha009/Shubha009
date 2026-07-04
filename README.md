@@ -5,7 +5,7 @@
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently working on **School ERP System**
-- 🌱 Learning **React, Next Js,Vue Js, DevOps**
+- 🌱 Learning **React, Next Js, Vue Js, DevOps**
 - 👨‍💻 Portfolio: **https://shubhamandal.com**
 - 💬 Ask me about **Laravel, PHP, MySQL, JavaScript**
 - 📫 Reach me at **contact@shubhamandal.com**
