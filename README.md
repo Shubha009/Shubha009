@@ -17,7 +17,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/shubhamandal">
+<a href="https://github.com/Shubha009">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
