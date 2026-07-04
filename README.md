@@ -25,10 +25,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 </p>
-<br>
-Languages and Tools
-<br>
 
+### Languages and Tools
+<br><br>
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,js,react,bootstrap,jquery,mysql,git,github,vscode" />
 </p>
@@ -40,3 +39,4 @@ Languages and Tools
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamandal)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamandal&layout=compact)
+
