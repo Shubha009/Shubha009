@@ -8,7 +8,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 Learning **React, Next Js, Vue Js, DevOps**
 - 👨‍💻 Portfolio: **https://shubhamandal.com**
 - 💬 Ask me about **Laravel, PHP, MySQL, JavaScript**
-- 📫 Reach me at **contact@shubhamandal.com**
+- 📫 Reach me at **contact@shubhamandal.com** Or
+-                 **(https://www.facebook.com/shubhamandal)**
 
 ### Connect with me
 
