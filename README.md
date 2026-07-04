@@ -26,7 +26,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 </p>
 <br><br>
-### Languages and Tools
+Languages and Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,js,react,bootstrap,jquery,mysql,git,github,vscode" />
