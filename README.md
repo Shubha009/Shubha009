@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubha Mandal
 
-<!--
-**Shubha009/Shubha009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Web Developer from Bangladesh
 
-Here are some ideas to get you started:
+Experienced Full-Stack Web Developer specializing in Laravel,
+PHP, MySQL, JavaScript, jQuery and Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on School ERP System
+- 🌱 Learning React and Next.js
+- 💼 Portfolio: shubhamandal.com
+- 🎯 Goal: Build scalable software solutions
+- 📫 Reach me: contact@shubhamandal.com
+
+## Connect with me
+
+LinkedIn | Website | Facebook | GitHub
