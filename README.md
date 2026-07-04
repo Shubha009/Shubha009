@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<br>
 - 🔭 Currently working on **School ERP System**
 - 🌱 Learning **React, Next Js, Vue Js, DevOps**
 - 👨‍💻 Portfolio: **https://shubhamandal.com**
@@ -27,7 +27,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ### Languages and Tools
-<br><br>
+<br>
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,js,react,bootstrap,jquery,mysql,git,github,vscode" />
 </p>
